@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    background-color: lightgray;
+    font-family: 'Roboto', sans-serif;
+}
+
+.feed-header{
+    text-align: center;
+    background-color: white;
+    margin: 0;
+    padding: 5px;
+}
+h1{
+    margin: 0;
+}
+.feed-body{
+    width: 500px;
+    margin: auto;
+}
+
+
+.post{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+
+.post-header{
+    padding: 10px;
+}
+
+.photo-title{
+    float: left;
+}
+
+.date{
+    float: right;
+    color: gray;
+}
+
+.photo{
+    text-align: center;
+}
+
+.post-footer{
+    padding: 10px;
+}
