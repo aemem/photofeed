@@ -1,3 +1,18 @@
+
+Es un feed the fotos mostrando posts individuales para cada imagen, uno debajo de otro. 
+
+Tiene arriba un header con un h1 con el títilo de la página. Tiene un text-align center para centrar el texto, margin 0  y padding 5px.
+
+Después hay una serie de posts. Cada post es un div con clase post y consta de un header, una imagen y un footer. Tiene margin auto para centrarlo horizontalmente y un margin-top para separarlo del elemento de encima. No tiene padding para que la foto ocupe todo el ancho. El header y el footer sí tienen padding.
+
+El header del post tiene un h2 con el título de la foto y otro con la fecha. Utilicé float para que cada uno quedara a un lado.
+
+La imagen ocupa todo el ancho del post y tiene su texto alternativo. 
+
+El footer tiene un p con la descrición de la foto y un hashtag en negrita hecho con b.
+
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
